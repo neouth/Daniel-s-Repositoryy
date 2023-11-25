@@ -10,7 +10,8 @@ cx_Freeze.setup(
             "include_files": [
                 "fundospace.jpg",
                 "space.png",
-                "Space_Machine_Power.mp3"
+                "Space_Machine_Power.mp3",
+                "pontos.txt"
             ]
         }
     } , executables = executables
